@@ -44,7 +44,7 @@ Python does have a linked list that can be used called a **daque**. To start you
     list1 = SLinkedList()
     list1.head = Node("Mon")
     e2 = Node("Wed")
-    e3 = Node("Sat")
+    e3 = Node("Fri")
     #Link first Node to second node 
     list1.headval.next = e2 
     # Link second Node to third node 
